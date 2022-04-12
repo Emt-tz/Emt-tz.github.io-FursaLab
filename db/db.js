@@ -1,10 +1,10 @@
 //handles the mysql connection
-var mysql      = require('mysql');
+var mysql = require("mysql");
 var connection = mysql.createConnection({
-  host     : 'localhost',
-  user     : 'root',
-  password : 'root',
-  database : 'airtel_forum'
+  host: "db4free.net",
+  user: "airtel",
+  password: "123456789",
+  database: "airtel_forum"
 });
- 
-module.exports = {connection};
+
+module.exports = { connection };
