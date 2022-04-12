@@ -1,0 +1,9 @@
+/*
+user:
+userid
+username
+password
+photo
+member_type(pro,amt,expert)
+date_joined
+*/
